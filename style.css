@@ -2,13 +2,19 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+#navbarResponsive{
+    float: right;
+}
+
 body li {
     font-size: 20px;
 }
-
+#titulo a{
+    color:#000;
+    text-decoration: none;
+}
 #titulo img {
-    padding: 10px;
-    width: 50%;
+     height: 50px;
 }
 
 #especialista {
